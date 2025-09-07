@@ -1,5 +1,5 @@
-<div align="center"> <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-MehtaDevelops – AI Image Editor
+<div align="center"> <img width="1200" height="475" alt="GHBanner" src="image.png" />
+<h1>MehtaDevelops – AI Image Editor</h3>
 </div>
 
 MehtaDevelops introduces a next-generation AI Image Editor powered by Google’s Nano Banana technology. Built with an emphasis on elegance, speed, and intelligence, the editor delivers a seamless experience while keeping simplicity at its core.
