@@ -1,19 +1,21 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+<div align="center"> <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 MehtaDevelops – AI Image Editor
+</div>
 
-MehtaDevelops presents a next-generation AI Image Editor powered by Google’s new Nano Banana technology. This project focuses on delivering an elegant, fast, and intelligent editing experience with simplicity at its core.
+MehtaDevelops introduces a next-generation AI Image Editor powered by Google’s Nano Banana technology. Built with an emphasis on elegance, speed, and intelligence, the editor delivers a seamless experience while keeping simplicity at its core.
 
-Why Nano Banana?
+🚀 Why Nano Banana?
 
-Google’s Nano Banana is designed for lightweight yet powerful AI processing. By integrating it, the editor achieves:
+Google’s Nano Banana brings the best of lightweight AI with powerful performance. By integrating it, the editor ensures:
 
-Speed – lightning-fast image understanding and transformation.
+⚡ Speed – lightning-fast image understanding and transformation.
 
-Efficiency – optimized for low compute cost while retaining high quality.
+🔎 Efficiency – optimized for low compute costs while retaining top quality.
 
-Scalability – can be extended to handle complex image workflows in the future.
+📈 Scalability – a foundation that can grow into more advanced image workflows.
 
-Vision
+🎯 Vision
 
-Our goal is to create an image editor that feels effortless, minimal, and intelligent — putting creativity first while letting AI handle the complexity in the background.
+Our mission is to craft an editor that feels effortless, minimal, and intelligent — letting creativity take the spotlight while AI handles the complexity in the background.
+
+Would you like me to also add a “Getting Started” / Installation section (even if just placeholders for now), so it looks more like a production-ready open-source README?
