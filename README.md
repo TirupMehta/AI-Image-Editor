@@ -1,24 +1,19 @@
-<<<<<<< HEAD
-# AI-Image-Editor
-=======
 <div align="center">
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+MehtaDevelops – AI Image Editor
 
-# Run and deploy your AI Studio app
+MehtaDevelops presents a next-generation AI Image Editor powered by Google’s new Nano Banana technology. This project focuses on delivering an elegant, fast, and intelligent editing experience with simplicity at its core.
 
-This contains everything you need to run your app locally.
+Why Nano Banana?
 
-View your app in AI Studio: https://ai.studio/apps/drive/1S4MA0pOapRpJS9yEnOw97gsNhkRJwKIv
+Google’s Nano Banana is designed for lightweight yet powerful AI processing. By integrating it, the editor achieves:
 
-## Run Locally
+Speed – lightning-fast image understanding and transformation.
 
-**Prerequisites:**  Node.js
+Efficiency – optimized for low compute cost while retaining high quality.
 
+Scalability – can be extended to handle complex image workflows in the future.
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
->>>>>>> a11dcd6 (Initial commit)
+Vision
+
+Our goal is to create an image editor that feels effortless, minimal, and intelligent — putting creativity first while letting AI handle the complexity in the background.
