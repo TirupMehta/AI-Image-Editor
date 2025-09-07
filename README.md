@@ -17,5 +17,3 @@ Google’s Nano Banana brings the best of lightweight AI with powerful performan
 🎯 Vision
 
 Our mission is to craft an editor that feels effortless, minimal, and intelligent — letting creativity take the spotlight while AI handles the complexity in the background.
-
-Would you like me to also add a “Getting Started” / Installation section (even if just placeholders for now), so it looks more like a production-ready open-source README?
